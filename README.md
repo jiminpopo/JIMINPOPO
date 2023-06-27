@@ -1,4 +1,16 @@
-### Hi there 👋
+### Machine learning / Deep learning
+
+ chapter 0 : how to install python and jupyter notebook 
+ 
+ chapter 1 : Python for statistians
+ 
+ chapter 2 : Machine learning (regression, classification, ensemble)
+ 
+ chapter 3 : Deep Neural Network (DNN)
+ 
+ chapter 4 : Convolutional Neural Network (CNN)
+ 
+ chapter 5 : Recurrent Neural Network (RNN)
 
 <!--
 **jiminpopo/JIMINPOPO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
